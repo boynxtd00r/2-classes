@@ -1,0 +1,5 @@
+/home/boynxtd00r/2-classes/build/CMakeFiles/MyProject.dir
+/home/boynxtd00r/2-classes/build/CMakeFiles/runTests.dir
+/home/boynxtd00r/2-classes/build/CMakeFiles/test.dir
+/home/boynxtd00r/2-classes/build/CMakeFiles/edit_cache.dir
+/home/boynxtd00r/2-classes/build/CMakeFiles/rebuild_cache.dir
