@@ -14,9 +14,6 @@ jobs:
     - name: Set up CMake
       uses: lukka/get-cmake@v3.21.1
 
-    - name: Install GoogleTest and GoogleMock
-      run: sudo apt-get install -y libgtest-dev cmake && sudo apt-get install -y libgmock-dev && cd /usr/src/gtest && sudo cmake . && sudo make && sudo cp *.a /usr/lib && cd /usr/src/gmock && sudo cmake . && sudo make && sudo cp *.a /usr/lib
-
     - name: Configure CMake
       run: cmake -S . -B build
 
